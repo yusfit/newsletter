@@ -92,10 +92,6 @@ body{
     cursor: pointer;
 }
 
-.it-is-valid{
-    /* display: none; */
-}
-
 .it-is-not-valid{
     display: none;
     color: hsl(4, 100%, 67%);
